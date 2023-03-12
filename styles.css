@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+}
+
+.container{
+    display: flex;
+}
+
+.program{
+    width: 20%;
+    padding: 1%;
+    margin: 1%;
+}
+
+.btn-1{
+    padding: 8px;
+    width: 60%;
+    height: 45%;
+    background-color: blue;
+}
+
+.btn-1:hover{
+    background-color: greenyellow;
+}
